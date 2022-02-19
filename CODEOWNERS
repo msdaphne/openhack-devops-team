@@ -1,4 +1,4 @@
 /apis/poi/* @msdaphne
-/apis/trips/* @msdaphne
+/apis/trips/* @daphnecys
 /apis/user-java/* @msdaphne
 /apis/userprofile/* @msdaphne
